@@ -1,10 +1,10 @@
 
 
-## 🌐 Profile Page - Flask Web App
+ 🌐 Profile Page - Flask Web App
 
 This is a simple Flask-based web application that displays a **personal profile page** with the following features:
 
-### 📋 Features
+ 📋 Features
 
 * Beautiful HTML/CSS layout for a personal profile.
 * Displays a **profile photo**, **bio**, and **interests**.
@@ -12,7 +12,7 @@ This is a simple Flask-based web application that displays a **personal profile 
 * Interactive **“Say Hello”** JavaScript button that greets the user.
 * Clean, responsive design using inline CSS.
 
-### 🧑 About Me
+🧑 About Me
 
 The page introduces **Vasavi**, a college student who loves:
 
@@ -21,7 +21,7 @@ The page introduces **Vasavi**, a college student who loves:
 * 💃 Dancing
 * 🎤 Singing
 
-### 🚀 How to Run
+🚀 How to Run
 
 1. Clone this repository:
 
@@ -47,8 +47,7 @@ The page introduces **Vasavi**, a college student who loves:
    ```
    http://localhost:5007
    ```
-
-### 🛠️ Future Improvements
+ 🛠️ Future Improvements
 
 * Store form data in a database.
 * Add a resume download button.
