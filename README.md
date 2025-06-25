@@ -1,7 +1,5 @@
 
 
-### ✅ Here’s a sample **Extended Description** you can us
-
 ## 🌐 Profile Page - Flask Web App
 
 This is a simple Flask-based web application that displays a **personal profile page** with the following features:
